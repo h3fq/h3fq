@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <a href="[https://github.com/virus0hacker](https://github.com/h3fq)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/virus0hacker(https://github.com/h3fq)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://t.me/drop0sa"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:gwhw@hotmail.com"><img src="https://img.shields.io/badge/Email-gwhw%40hotmail.com-red?style=for-the-badge&logo=hotmail&logoColor=white" alt="Email" /></a>
   <a href="[https://flagyard.com/profile/11a6fcd3-d5a7-4656-ab1b-b4189cb97c0b)"><img src="https://img.shields.io/badge/FlagYard-General-00ff41?style=for-the-badge&labelColor=0e151c" alt="FlagYard" /></a>
